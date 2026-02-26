@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "カラフル",
+  "base_artist": "柊マグネタイト",
+  "createdAt": "2026-02-26T09:44:07.015090Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カラフル",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/01_カラフル_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カラフル",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/02_カラフル_Flower.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カラフル。",
+      "artist": "Miku Sawai",
+      "has_synced": true,
+      "path": "select/03_カラフル。_Miku_Sawai.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カラフル",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/04_カラフル_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カラフル",
+      "artist": "H△G",
+      "has_synced": true,
+      "path": "select/05_カラフル_H△G.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カラフル",
+      "artist": "YURiCa/花たん",
+      "has_synced": true,
+      "path": "select/06_カラフル_YURiCa_花たん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カラフル -2017-",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/07_カラフル_-2017-_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カラフル×メロディ",
+      "artist": "ちーむMOER feat. 初音ミク・鏡音リン",
+      "has_synced": true,
+      "path": "select/08_カラフル×メロディ_ちーむMOER_feat._初音ミク・鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カラフル×メロディ",
+      "artist": "ちーむMOER feat. 初音ミク, 鏡音リン",
+      "has_synced": true,
+      "path": "select/09_カラフル×メロディ_ちーむMOER_feat._初音ミク,_鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カラフル。",
+      "artist": "Miku Sawai",
+      "has_synced": true,
+      "path": "select/10_カラフル。_Miku_Sawai.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "カラフル!!",
+      "artist": "絢香",
+      "has_synced": false,
+      "path": "select/11_カラフル!!_絢香.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "カラフル",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/12_カラフル_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "カラフル☆フュージョン",
+      "artist": "篠田はじめ(CV: 戸田めぐみ)× 飯島ゆん(CV: 竹尾歩美)",
+      "has_synced": true,
+      "path": "select/13_カラフル☆フュージョン_篠田はじめ(CV__戸田めぐみ)×_飯島ゆん(CV__竹尾歩美).lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "カラフル - Colorful",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/14_カラフル_-_Colorful_ClariS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カラフル",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/pl_01_カラフル_柊マグネタイト.txt"
+    }
+  ]
+}
